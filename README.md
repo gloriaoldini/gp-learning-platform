@@ -1,8 +1,8 @@
 # GP Learning Platform
 
-**A calm, multilingual learning platform for adults who are still learning Dutch.**
+**A calm, multilingual learning platform for adults.**
 
-A self-initiated UX/UI redesign of the student side of a Moodle platform used at an adult-education school in Flanders (cvo Groeipunt). The users are adults learning Dutch (NT2, level A1–B1), many of them newcomers. They have to use a platform written in a language they don't speak yet.
+A self-initiated UX/UI redesign of the student side of a Moodle platform used at an adult-education school in Flanders (cvo Groeipunt).
 
 ![Three phone screens of the GP Learning Platform](assets/og-image.jpg)
 
