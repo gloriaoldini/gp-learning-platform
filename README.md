@@ -42,7 +42,7 @@ Plain HTML, CSS and JavaScript in a single file, with no framework and no build 
 ## Notes
 
 - This is a **portfolio prototype**, not the school's official platform. Buttons that would send data (messages, uploads, downloads) only show a confirmation.
-- All names, grades and messages are **made up**. The school logo is used with permission.
+- All names, grades and messages are **made up**.
 
 ---
 
